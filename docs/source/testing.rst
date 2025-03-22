@@ -8,3 +8,6 @@ maybe add in a note...
 .. note::
 
   Notable thing
+
+- Bullet point
+- Nice
