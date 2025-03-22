@@ -1,13 +1,9 @@
 Welcome to Open Day Activity!
 =============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Open Day** (/oh'pen day/) This page was made as an exercise at The University of Portsmouth's Open Day.
+It was made using Read The Docs.
+Read The Docs automatically syncs and uploads your github project for others to see.
 
 .. note::
 
